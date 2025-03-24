@@ -1,0 +1,7 @@
+echo "# Nazareth_Tamsi_EntornosDeDesarrollo" >> README.md
+git init
+git add README.md
+git commit -m "NT_Commit de la primera clase circulo"
+git branch -M main
+git remote add origin https://github.com/NazarethTamsi/Nazareth_Tamsi_EntornosDeDesarrollo.git
+git push -u origin main
